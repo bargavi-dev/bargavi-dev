@@ -1,6 +1,7 @@
   
-
-  My name is Bargavi and presently finishing my last month at Digital Crafts, a full-stack coding bootcamp based out of Houston, Texas. Originally a English as a Second Language Teacher in South Korea, I eventually stumbled upon a Free Code Camp chapter in Seoul and my interest in coding grew from there. I'm an enthusiatic learner and enjoy collaborating with others-please feel free to reach out if you're interested in connecting! 
+<h2>About me<h2>
+  
+  My name is Bargavi and presently finishing my program at Digital Crafts, a full-stack coding bootcamp based out of Houston, Texas. Originally a English as a Second Language Teacher in South Korea, I eventually stumbled upon a Free Code Camp chapter in Seoul and my interest in coding grew from there. I'm an enthusiatic learner and enjoy collaborating with others-please feel free to reach out if you're interested in connecting! 
 
 
 
@@ -15,6 +16,7 @@
 
 
 
-
+<h2>Stats Overview<h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bargavi-dev)](https://github.com/bargavi-dev/github-readme-stats)
 
