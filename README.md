@@ -14,4 +14,7 @@
 - 💃🏽 Fun fact: I enjoy salsa-dancing and going to improv shows. 
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?bargavi-dev" frameborder="0"></iframe>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bargavi-dev)](https://github.com/bargavi-dev/github-readme-stats)
+
