@@ -2,7 +2,7 @@
 - 🌱 I’m currently working on a mobile application called Puente.<br>
 - 👯 I’m looking to collaborate on projects relating to the fight against human trafficking and sexual abuse.<br>
 - 🙋🏽‍♀️ Pronouns: She/Her<br>
-�-🌤Fun fact: I enjoy picnics and vitamin D<br>
+-🌤Fun fact: I enjoy picnics and vitamin D<br>
 
 
 
