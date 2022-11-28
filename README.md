@@ -2,7 +2,7 @@
 - 🌱 I’m currently working on a mobile app called foodiefomo.<br>
 - 🥐 I have a strong passion for foodtech, traveltech and working on products that produce social and environmental impact.<br>
 - 🙋🏽‍♀️ Pronouns: She/Her<br>
-- <br>
+<br>
 
 
 
