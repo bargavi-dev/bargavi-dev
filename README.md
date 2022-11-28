@@ -1,8 +1,8 @@
 
-- 🌱 I’m currently working on a React website called Eat the Samosa.<br>
-- 👯 I’m looking to collaborate on projects relating to the fight against human trafficking and sexual abuse.<br>
+- 🌱 I’m currently working on a mobile app called foodiefomo.<br>
+- 🥐 I have a strong passion for foodtech, traveltech and working on products that produce social and environmental impact.<br>
 - 🙋🏽‍♀️ Pronouns: She/Her<br>
-- 🌤 Fun fact: I enjoy picnics and vitamin D.<br>
+- <br>
 
 
 
