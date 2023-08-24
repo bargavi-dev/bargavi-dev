@@ -1,6 +1,6 @@
 
-- 🌱 I’m currently in the ideation phase for a product called foodiefomo.<br>
-- 🥐 I have a strong passion for foodtech, sextech and working on products that produce social and environmental impact.<br>
+- I’m currently a product manager at a Venture Capital Firm for various porfolio companies.<br>
+- I have a strong passion for products that produce social and environmental impact.<br>
 - 🙋🏽‍♀️ Pronouns: She/Her<br>
 <br>
 
