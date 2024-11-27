@@ -1,7 +1,5 @@
 
-- I’m currently a product manager at a Venture Capital Firm for various porfolio companies.<br>
-- I have a strong passion for products that produce social and environmental impact.<br>
-- 🙋🏽‍♀️ Pronouns: She/Her<br>
+
 <br>
 
 
